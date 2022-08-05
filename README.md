@@ -1,4 +1,7 @@
 ### 大家好~这里是MWX!
+[![](https://img.shields.io/badge/V%20ME-50-red?style=for-the-badge&logo=kfc&logoColor=red)](https://afdian.net/@mwx2006)
+
+
 [![MWX's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwx2006)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mwx2006&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
